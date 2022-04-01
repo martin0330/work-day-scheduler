@@ -69,3 +69,11 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+  .time {
+    background-color: rgb(108,117,125);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
