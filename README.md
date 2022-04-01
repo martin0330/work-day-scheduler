@@ -12,4 +12,7 @@ A website that stores daily tasks
 https://martin0330.github.io/work-day-scheduler/
 
 ## Contributions
-Made by Martin Cruz![workday](https://user-images.githubusercontent.com/95774102/158087260-959bedcb-7ac3-40e8-b1be-abc83bec8b76.png)
+Made by Martin Cruz
+
+
+![workdayscheduler](https://user-images.githubusercontent.com/95774102/161344948-d38cc4fa-c231-4059-836d-53039bbb0775.png)
